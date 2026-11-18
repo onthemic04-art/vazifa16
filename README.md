@@ -30,7 +30,7 @@ Page 1 of 2
 1-bosqich: Lokal loyihani GitHub’ga chiqarish (1-topshiriq)
 GitHub saytida kundalik nomli Public repozitoriy oching («Add a README file» katakchasini belgilamang), so‘ngra lokal kundalik papkasida quyidagi buyruqlarni bajaring:
 
-git remote add origin https://github.com/[foydalanuvchi-nomi]/kundalik.git
+git remote add origin https://github.com/[onthemic04-art]/kundalik.git
 git remote -v
 git push -u origin main
 So‘ngra README.md faylini yaratib, uni saqlang va GitHub’ga yuboring:
@@ -42,6 +42,6 @@ git push
 Loyihani ish stolidagi alohida papkaga klonlang, GitHub saytida kundalik.md faylini tahrirlab commit qiling va yangilanishni tortib oling:
 
 cd ~/Desktop
-git clone https://github.com/[foydalanuvchi-nomi]/kundalik.git kundalik-nusxa
+git clone https://github.com/[onthemic04-art]/kundalik.git kundalik-nusxa
 cd kundalik-nusxa
 git pull
